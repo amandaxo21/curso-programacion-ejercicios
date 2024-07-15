@@ -1,1 +1,1 @@
-Este es el Ejercicio 1
+Ejercicio 1: Frontend Mentor - Notifications page
