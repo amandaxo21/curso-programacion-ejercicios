@@ -5,6 +5,6 @@ Este repositorio contiene los ejercicios realizados durante el curso de programa
 
 ## Ejercicios
 
-1. [Ejercicio 1](Ejercicio1/README.md)
+1. [Ejercicio 1]([Ejercicio1/README.md](https://github.com/amandaxo21/curso-programacion-ejercicios/tree/Ejercicio2))
 2. [Ejercicio 2](Ejercicio2/README.md)
 3. [Ejercicio 3](Ejercicio3/README.md)
